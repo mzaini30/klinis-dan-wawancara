@@ -1,0 +1,28 @@
+Menghubungi pihak bank untuk menanyakan saldo rekening
+Mencatat saldo bank via fax (phonebanking) atau via internet (e-banking)
+Mencatat penerimaan dan pengeluaran ke dalam buku bank
+Melakukan proses reimburstment bank keluar cabang
+Melakukan pengecekkan di bank apakah ada uang masuk dari customer
+Membuat BBT
+Mencatat penerimaan tersebut ke dalam buku bank
+Mencocokkan dan Mengupdate buku kas penjualan sesuai dengan faktur yang dibayarkan dan dana yang diterima
+Mengecek saldo dan mutasi seluruh bank serta mengecek giro/cek yang belum dibayarkan ke supplier.
+Membuat proyeksi penerimaan berdasarkan jadwal penerimaan AR dari leasing / customer
+Membuat proyeksi pengeluaran berdasarkan BBKyang telah diterima oleh FAD
+Membuat laporan daily cashflow dan weekly cashflow untuk dikirimkan ke PIC konsol di Treasury HO
+Melakukan pengarsipan file-file tersebut.
+Menyiapkan BBK sesuai dengan tagihan yang diterima 
+Meminta approval pada BBK
+Memastikan bahwa Giro/Cek sudah tersedia dananya.
+Menyiapkan slip setoran bank
+Melakukan pengecekan di bank apakah ada uang masukdari customer.
+Meminta dan menerima TTO dari cashier untuk dibuat BBTdan diserahkan ke atasan ybs.
+Setelah ditandatangani atasan, data di-input oleh cashier dan diperiksa oleh atasan.
+Melakukan pengarsipan file-file tersebut.
+Menghubungi bank untuk mengetahui saldo akhir bulan.
+Mencocokkan saldo bank dengan saldo buku bank untukdibuat laporan rekonsiliasi bank.
+Menyerahkan laporan rekonsiliasi bank kepada atasanuntuk diperiksa dan ditandatangani.
+Setelah itu laporan rekonsiliasi dicopy, yang asli diarsip-kan dan yang copy diserahkan ke bagian accounting.
+Menerima laporan dari cashier atau SA kalau ada customerkurang bayar atau minta ditransfer.
+Menjelaskan bahwa peraturan perusahaan dari pusatbahwa pembayaran harus cash atau dengan cek / girojika dana sudah cair ke rekening.
+Apabila tetap tidak dapat diselesaikan, melapor ke FADpusat dan Workshop Head untuk dicarikan solusinya.
